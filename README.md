@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Aung 
+I am Aung -
 CS Undergrad Student at Jahangirnagar University 
 ## 📈 GitHub Analytics
 
